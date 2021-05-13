@@ -1,0 +1,17 @@
+{
+  "name": "dsc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "s",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ngrok": "^4.0.1",
+    "nodemon": "^2.0.7"
+  }
+}
